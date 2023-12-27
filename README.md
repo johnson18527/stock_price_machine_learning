@@ -6,6 +6,7 @@
 
 ## 資料說明
 ### 備註：本案報酬計算階以5個交易日(T+5收盤減T日收盤 or T收盤減T-5日收盤)為單位
+![image](https://github.com/johnson18527/stock_price_machine_learning/blob/main/pic/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-12-27%20203056.png)
 
 ## 資料轉換
  - 正規化(np.log())
@@ -35,3 +36,5 @@
  - 視覺化(pyplot.boxplot()、pyplot.bar())
 ## 其他參考工具
  - Feature Selection(SelectKBest)
+## 參考書籍
+ - 《金融機器學習與資料科學藍圖》

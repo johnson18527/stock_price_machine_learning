@@ -24,7 +24,8 @@
  - ElasticNet 
  - KNeighborsRegressor
  - DecisionTreeRegressor 
- - SVR ．MLPRegressor 
+ - SVR 
+ - MLPRegressor 
  - AdaBoostRegressor
  - GradientBoostingRegressor 
  - RandomForestRegressor
